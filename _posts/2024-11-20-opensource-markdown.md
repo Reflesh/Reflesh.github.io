@@ -11,7 +11,7 @@ author: Reflesh
 ---
 
 {: .box-success}
-This is test post for opensource class. My blog is [https://reflesh](https://reflesh02.tistory.com/)
+This is test post for opensource class. My blog is [reflesh02](https://reflesh02.tistory.com/)
 
 **Here is some bold text**
 
