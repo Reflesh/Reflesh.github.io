@@ -2,7 +2,7 @@
 layout: post
 title: Opensource Post Test
 subtitle: Test
-gh-repo: Reflesh/reflesh.github.io
+gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
